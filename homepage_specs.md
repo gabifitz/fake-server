@@ -2,4 +2,5 @@
 
 - Move subscription form up.
 - Make special collections mouseover.
+- Make number of docs clickable.
 
