@@ -1,5 +1,5 @@
 #This is IT
 
-### *Goodly* enough
+### Goodly enough
 
 __End__
