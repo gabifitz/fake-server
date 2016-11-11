@@ -1,9 +1,5 @@
 #This is IT
 
-<<<<<<< HEAD
-### Goodly enough
-=======
-### Great enough
->>>>>>> origin/master
+### *Goodly* enough
 
 __End__
